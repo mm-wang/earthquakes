@@ -1,4 +1,4 @@
-# dv_processing-earthquakes
+# Data Visualization: Earthquakes Since 1900
 
 ## Attempting Processing
 As a first time user of Processing, this was just a great way to dive into the power of Processing. 
